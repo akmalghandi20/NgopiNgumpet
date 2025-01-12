@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991392585332",
+    "project_id": "lagrande-pm2",
+    "storage_bucket": "lagrande-pm2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991392585332:android:8edc3c54f9cd19ce802321",
+        "android_client_info": {
+          "package_name": "com.android.lagrande"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkOkEPpNnPGUWftEWpnHyf0ZCpTHkFJ24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
